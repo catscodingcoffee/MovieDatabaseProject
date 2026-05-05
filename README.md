@@ -27,11 +27,11 @@ Once your Codespace is open you will need to configure JUnit for unit testing. F
 ### 4. Verify Your Setup
 You should now see `MovieDatabaseTest.java` appear in the Testing panel. If everything is configured correctly you will be able to run the tests from there. Your file structure should look like this:
 ```
-movieProject/
-├── Movie.java
-├── MovieDatabase.java
-├── MovieDatabaseTest.java
-└── movies_clean.csv
+Movie.java
+MovieDatabase.java
+MovieDatabaseTest.java
+movies_clean.csv
+README.md
 ```
 
 ---
