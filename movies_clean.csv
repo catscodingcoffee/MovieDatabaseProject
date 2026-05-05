@@ -1,0 +1,801 @@
+title,year,genres,avgRating,numRatings
+Forrest Gump,1994,Comedy/Drama/Romance/War,4.16,329
+The Shawshank Redemption,1994,Crime/Drama,4.43,317
+Pulp Fiction,1994,Comedy/Crime/Drama/Thriller,4.2,307
+The Silence of the Lambs,1991,Crime/Horror/Thriller,4.16,279
+The Matrix,1999,Action/Sci-Fi/Thriller,4.19,278
+Star Wars: Episode IV - A New Hope,1977,Action/Adventure/Sci-Fi,4.23,251
+Jurassic Park,1993,Action/Adventure/Sci-Fi/Thriller,3.75,238
+Braveheart,1995,Action/Drama/War,4.03,237
+Terminator 2: Judgment Day,1991,Action/Sci-Fi,3.97,224
+Schindler's List,1993,Drama/War,4.22,220
+Fight Club,1999,Action/Crime/Drama/Thriller,4.27,218
+Toy Story,1995,Adventure/Animation/Children/Comedy/Fantasy,3.92,215
+Star Wars: Episode V - The Empire Strikes Back,1980,Action/Adventure/Sci-Fi,4.22,211
+The Usual Suspects,1995,Crime/Mystery/Thriller,4.24,204
+American Beauty,1999,Drama/Romance,4.06,204
+Seven (a.k.a. Se7en),1995,Mystery/Thriller,3.98,203
+Independence Day (a.k.a. ID4),1996,Action/Adventure/Sci-Fi/Thriller,3.45,202
+Apollo 13,1995,Adventure/Drama/IMAX,3.85,201
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1981,Action/Adventure,4.21,200
+The Lord of the Rings: The Fellowship of the Ring,2001,Adventure/Fantasy,4.11,198
+Star Wars: Episode VI - Return of the Jedi,1983,Action/Adventure/Sci-Fi,4.14,196
+The Godfather,1972,Crime/Drama,4.29,192
+The Fugitive,1993,Thriller,3.99,190
+Batman,1989,Action/Crime/Thriller,3.43,189
+Saving Private Ryan,1998,Action/Drama/War,4.15,188
+The Lord of the Rings: The Two Towers,2002,Adventure/Fantasy,4.02,188
+The Lord of the Rings: The Return of the King,2003,Action/Adventure/Drama/Fantasy,4.12,185
+Aladdin,1992,Adventure/Animation/Children/Comedy/Musical,3.79,183
+Fargo,1996,Comedy/Crime/Drama/Thriller,4.12,181
+The Sixth Sense,1999,Drama/Horror/Mystery,3.89,179
+True Lies,1994,Action/Adventure/Comedy/Romance/Thriller,3.5,178
+Twelve Monkeys (a.k.a. 12 Monkeys),1995,Mystery/Sci-Fi/Thriller,3.98,177
+The Lion King,1994,Adventure/Animation/Children/Drama/Musical/IMAX,3.94,172
+Speed,1994,Action/Romance/Thriller,3.53,171
+Back to the Future,1985,Adventure/Comedy/Sci-Fi,4.04,171
+Gladiator,2000,Action/Adventure/Drama,3.94,170
+Shrek,2001,Adventure/Animation/Children/Comedy/Fantasy/Romance,3.87,170
+Men in Black (a.k.a. MIB),1997,Action/Comedy/Sci-Fi,3.49,165
+Dances with Wolves,1990,Adventure/Drama/Western,3.84,164
+Mission: Impossible,1996,Action/Adventure/Mystery/Thriller,3.54,162
+Ace Ventura: Pet Detective,1994,Comedy,3.04,161
+Memento,2000,Mystery/Thriller,4.12,159
+The Mask,1994,Action/Comedy/Crime/Fantasy,3.18,157
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,Action/Adventure/Comedy/Fantasy,3.78,149
+The Dark Knight,2008,Action/Crime/Drama/IMAX,4.24,149
+Beauty and the Beast,1991,Animation/Children/Fantasy/Musical/Romance/IMAX,3.77,146
+Alien,1979,Horror/Sci-Fi,3.97,146
+Die Hard,1988,Action/Crime/Thriller,3.86,145
+Die Hard: With a Vengeance,1995,Action/Crime/Thriller,3.56,144
+Mrs. Doubtfire,1993,Comedy/Drama,3.39,144
+Groundhog Day,1993,Comedy/Fantasy/Romance,3.94,143
+Inception,2010,Action/Crime/Drama/Mystery/Sci-Fi/Thriller/IMAX,4.07,143
+The Princess Bride,1987,Action/Adventure/Comedy/Fantasy/Romance,4.23,142
+Good Will Hunting,1997,Drama/Romance,4.08,141
+Finding Nemo,2003,Adventure/Animation/Children/Comedy,3.96,141
+Stargate,1994,Action/Adventure/Sci-Fi,3.38,140
+Indiana Jones and the Last Crusade,1989,Action/Adventure,4.05,140
+Titanic,1997,Drama/Romance,3.41,140
+Star Wars: Episode I - The Phantom Menace,1999,Action/Adventure/Sci-Fi,3.11,140
+Batman Forever,1995,Action/Adventure/Comedy/Crime,2.92,137
+Monty Python and the Holy Grail,1975,Adventure/Comedy/Fantasy,4.16,136
+Pretty Woman,1990,Comedy/Romance,3.49,135
+Dumb & Dumber (Dumb and Dumber),1994,Adventure/Comedy,3.06,133
+Léon: The Professional (a.k.a. The Professional) (Léon),1994,Action/Crime/Drama/Thriller,4.02,133
+One Flew Over the Cuckoo's Nest,1975,Drama,4.2,133
+X-Men,2000,Action/Adventure/Sci-Fi,3.7,133
+GoldenEye,1995,Action/Adventure/Thriller,3.5,132
+Monsters; Inc.,2001,Adventure/Animation/Children/Comedy/Fantasy,3.87,132
+Reservoir Dogs,1992,Crime/Mystery/Thriller,4.2,131
+The Terminator,1984,Action/Sci-Fi/Thriller,3.9,131
+Kill Bill: Vol. 1,2003,Action/Crime/Thriller,3.96,131
+Eternal Sunshine of the Spotless Mind,2004,Drama/Romance/Sci-Fi,4.16,131
+The Godfather: Part II,1974,Crime/Drama,4.26,129
+American History X,1998,Crime/Drama,4.22,129
+Babe,1995,Children/Drama,3.65,128
+Aliens,1986,Action/Adventure/Horror/Sci-Fi,3.96,126
+Goodfellas,1990,Crime/Drama,4.25,126
+The Truman Show,1998,Comedy/Drama/Sci-Fi,3.81,125
+The Incredibles,2004,Action/Adventure/Animation/Children/Comedy,3.84,125
+Blade Runner,1982,Action/Sci-Fi/Thriller,4.1,124
+Twister,1996,Action/Adventure/Romance/Thriller,3.32,123
+A Beautiful Mind,2001,Drama/Romance,4.0,123
+E.T. the Extra-Terrestrial,1982,Children/Drama/Sci-Fi,3.77,122
+Spider-Man,2002,Action/Adventure/Sci-Fi/Thriller,3.54,122
+The Rock,1996,Action/Adventure/Thriller,3.64,121
+Austin Powers: The Spy Who Shagged Me,1999,Action/Adventure/Comedy,3.2,121
+A Clockwork Orange,1971,Crime/Drama/Sci-Fi/Thriller,4.0,120
+Ghostbusters (a.k.a. Ghost Busters),1984,Action/Comedy/Sci-Fi,3.77,120
+Amélie,2001,Comedy/Romance,4.18,120
+Minority Report,2002,Action/Crime/Mystery/Sci-Fi/Thriller,3.64,120
+Willy Wonka & the Chocolate Factory,1971,Children/Comedy/Fantasy/Musical,3.87,119
+Ocean's Eleven,2001,Crime/Thriller,3.84,119
+Home Alone,1990,Children/Comedy,3.0,116
+The Fifth Element,1997,Action/Adventure/Comedy/Sci-Fi,3.75,116
+Batman Begins,2005,Action/Crime/IMAX,3.86,116
+Waterworld,1995,Action/Adventure/Sci-Fi,2.91,115
+Ghost,1990,Comedy/Drama/Fantasy/Romance/Thriller,3.43,115
+Catch Me If You Can,2002,Crime/Drama,3.92,115
+The Breakfast Club,1985,Comedy/Drama,3.78,113
+The Net,1995,Action/Crime/Thriller,3.04,112
+The Bourne Identity,2002,Action/Mystery/Thriller,3.82,112
+The Green Mile,1999,Crime/Drama,4.15,111
+Jumanji,1995,Adventure/Children/Fantasy,3.43,110
+Clear and Present Danger,1994,Action/Crime/Drama/Thriller,3.6,110
+Crouching Tiger; Hidden Dragon (Wo hu cang long),2000,Action/Drama/Romance,3.84,110
+Kill Bill: Vol. 2,2004,Action/Drama/Thriller,3.87,110
+Interview with the Vampire: The Vampire Chronicles,1994,Drama/Horror,3.46,109
+2001: A Space Odyssey,1968,Adventure/Drama/Sci-Fi,3.89,109
+The Shining,1980,Horror,4.08,109
+Ferris Bueller's Day Off,1986,Comedy,3.84,109
+Donnie Darko,2001,Drama/Mystery/Sci-Fi/Thriller,3.98,109
+Star Trek: Generations,1994,Adventure/Drama/Sci-Fi,3.39,108
+Indiana Jones and the Temple of Doom,1984,Action/Adventure/Fantasy,3.64,108
+Apocalypse Now,1979,Action/Drama/War,4.22,107
+Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone),2001,Adventure/Children/Fantasy,3.76,107
+The Departed,2006,Crime/Drama/Thriller,4.25,107
+Sleepless in Seattle,1993,Comedy/Drama/Romance,3.47,106
+The Big Lebowski,1998,Comedy/Crime,3.92,106
+There's Something About Mary,1998,Comedy/Romance,3.68,105
+Up,2009,Adventure/Animation/Children/Drama,4.0,105
+Clueless,1995,Comedy/Romance,3.29,104
+Taxi Driver,1976,Crime/Drama/Thriller,4.11,104
+Clerks,1994,Comedy,3.86,104
+WALL·E,2008,Adventure/Animation/Children/Romance/Sci-Fi,4.06,104
+Crimson Tide,1995,Drama/Thriller/War,3.64,103
+Four Weddings and a Funeral,1994,Comedy/Romance,3.52,103
+American Pie,1999,Comedy/Romance,3.38,103
+Heat,1995,Action/Crime/Thriller,3.95,102
+Trainspotting,1996,Comedy/Crime/Drama,4.04,102
+Full Metal Jacket,1987,Drama/War,4.1,102
+Harry Potter and the Chamber of Secrets,2002,Adventure/Fantasy,3.6,102
+Outbreak,1995,Action/Drama/Sci-Fi/Thriller,3.43,101
+Cliffhanger,1993,Action/Adventure/Thriller,3.03,101
+The Firm,1993,Drama/Thriller,3.53,101
+Casablanca,1942,Drama/Romance,4.24,100
+Austin Powers: International Man of Mystery,1997,Action/Adventure/Comedy,3.54,100
+Cast Away,2000,Drama,3.7,100
+V for Vendetta,2006,Action/Sci-Fi/Thriller/IMAX,3.88,100
+Happy Gilmore,1996,Comedy,3.44,99
+Being John Malkovich,1999,Comedy/Drama/Fantasy,3.95,99
+While You Were Sleeping,1995,Comedy/Romance,3.47,98
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Comedy/War,4.27,97
+L.A. Confidential,1997,Crime/Film-Noir/Mystery/Thriller,4.06,97
+Who Framed Roger Rabbit?,1988,Adventure/Animation/Children/Comedy/Crime/Fantasy/Mystery,3.57,97
+Toy Story 2,1999,Adventure/Animation/Children/Comedy/Fantasy,3.86,97
+Avatar,2009,Action/Adventure/Sci-Fi/IMAX,3.6,97
+As Good as It Gets,1997,Comedy/Drama/Romance,3.7,96
+Rain Man,1988,Drama,3.81,96
+Requiem for a Dream,2000,Drama,3.92,96
+The Matrix Reloaded,2003,Action/Adventure/Sci-Fi/Thriller/IMAX,3.35,96
+Office Space,1999,Comedy/Crime,4.09,94
+O Brother; Where Art Thou?,2000,Adventure/Comedy/Crime,3.81,94
+Iron Man,2008,Action/Adventure/Sci-Fi,3.82,94
+The Nightmare Before Christmas,1993,Animation/Children/Fantasy/Musical,3.55,93
+Snatch,2000,Comedy/Crime/Thriller,4.16,93
+Harry Potter and the Prisoner of Azkaban,2004,Adventure/Fantasy/IMAX,3.91,93
+Natural Born Killers,1994,Action/Crime/Thriller,3.23,92
+The Wizard of Oz,1939,Adventure/Children/Fantasy/Musical,3.88,92
+Armageddon,1998,Action/Romance/Sci-Fi/Thriller,3.05,92
+A Bug's Life,1998,Adventure/Animation/Children/Comedy,3.52,92
+Shakespeare in Love,1998,Comedy/Drama/Romance,3.78,92
+Star Wars: Episode II - Attack of the Clones,2002,Action/Adventure/Sci-Fi/IMAX,3.16,92
+Shrek 2,2004,Adventure/Animation/Children/Comedy/Musical/Romance,3.58,92
+Stand by Me,1986,Adventure/Drama,4.01,91
+Star Trek: First Contact,1996,Action/Adventure/Sci-Fi/Thriller,3.88,91
+Jaws,1975,Action/Horror,4.01,91
+Beetlejuice,1988,Comedy/Fantasy,3.47,91
+Big,1988,Comedy/Drama/Fantasy/Romance,3.72,91
+Meet the Parents,2000,Comedy,3.42,91
+The Hunt for Red October,1990,Action/Adventure/Thriller,3.87,90
+The Prestige,2006,Drama/Mystery/Sci-Fi/Thriller,4.01,90
+Get Shorty,1995,Comedy/Crime/Thriller,3.49,89
+Monty Python's Life of Brian,1979,Comedy,3.93,89
+Ace Ventura: When Nature Calls,1995,Comedy,2.73,88
+Back to the Future Part III,1990,Adventure/Comedy/Sci-Fi/Western,3.37,88
+Life Is Beautiful (La Vita è bella),1997,Comedy/Drama/Romance/War,4.15,88
+Total Recall,1990,Action/Adventure/Sci-Fi/Thriller,3.65,88
+Inglourious Basterds,2009,Action/Drama/War,4.14,88
+Back to the Future Part II,1989,Adventure/Comedy/Sci-Fi,3.51,87
+The Mummy,1999,Action/Adventure/Comedy/Fantasy/Horror/Thriller,3.12,87
+Airplane!,1980,Comedy,3.86,87
+Spirited Away (Sen to Chihiro no kamikakushi),2001,Adventure/Animation/Fantasy,4.16,87
+The Birdcage,1996,Comedy,3.49,86
+Dead Poets Society,1989,Drama,3.96,86
+Mars Attacks!,1996,Action/Comedy/Sci-Fi,3.09,86
+Gattaca,1997,Drama/Sci-Fi/Thriller,3.95,86
+When Harry Met Sally...,1989,Comedy/Romance,3.86,85
+Jerry Maguire,1996,Drama/Romance,3.59,85
+Ice Age,2002,Adventure/Animation/Children/Comedy,3.69,85
+Broken Arrow,1996,Action/Adventure/Thriller,3.02,84
+Addams Family Values,1993,Children/Comedy/Fantasy,3.1,84
+Rear Window,1954,Mystery/Thriller,4.26,84
+The Blues Brothers,1980,Action/Comedy/Musical,3.81,84
+Sin City,2005,Action/Crime/Film-Noir/Mystery/Thriller,3.86,84
+Top Gun,1986,Action/Romance,3.3,83
+Psycho,1960,Crime/Horror,4.04,83
+Almost Famous,2000,Drama,3.87,83
+Casino,1995,Crime/Drama,3.93,82
+The Nutty Professor,1996,Comedy/Fantasy/Romance/Sci-Fi,2.73,82
+Contact,1997,Drama/Sci-Fi,3.65,82
+Quiz Show,1994,Drama,3.52,81
+The Santa Clause,1994,Comedy/Drama/Fantasy,3.2,81
+Demolition Man,1993,Action/Adventure/Sci-Fi,3.09,81
+Pan's Labyrinth (Laberinto del fauno; El),2006,Drama/Fantasy/Thriller,3.81,81
+Casino Royale,2006,Action/Adventure/Thriller,3.94,81
+The Bourne Ultimatum,2007,Action/Crime/Thriller,3.7,81
+Mr. Holland's Opus,1995,Drama,3.71,80
+Starship Troopers,1997,Action/Sci-Fi,3.33,80
+Edward Scissorhands,1990,Drama/Fantasy/Romance,3.7,80
+300,2007,Action/Fantasy/War/IMAX,3.68,80
+The Graduate,1967,Comedy/Drama/Romance,4.06,79
+Dogma,1999,Adventure/Comedy/Fantasy,3.65,79
+The Matrix Revolutions,2003,Action/Adventure/Sci-Fi/Thriller/IMAX,3.15,79
+Spider-Man 2,2004,Action/Adventure/Sci-Fi/IMAX,3.8,79
+Chicken Run,2000,Animation/Children/Comedy,3.55,78
+Star Wars: Episode III - Revenge of the Sith,2005,Action/Adventure/Sci-Fi,3.43,78
+What's Eating Gilbert Grape,1993,Drama,3.77,77
+Snow White and the Seven Dwarfs,1937,Animation/Children/Drama/Fantasy/Musical,3.62,77
+Face/Off,1997,Action/Crime/Drama/Thriller,3.37,77
+The Game,1997,Drama/Mystery/Thriller,3.7,77
+Mission: Impossible II,2000,Action/Adventure/Thriller,2.71,77
+Shaun of the Dead,2004,Comedy/Horror,4.01,77
+Little Miss Sunshine,2006,Adventure/Comedy/Drama,3.88,77
+Leaving Las Vegas,1995,Drama/Romance,3.62,76
+Dave,1993,Comedy/Romance,3.55,76
+Amadeus,1984,Drama,4.18,76
+South Park: Bigger; Longer and Uncut,1999,Animation/Comedy/Musical,3.86,76
+X2: X-Men United,2003,Action/Adventure/Sci-Fi/Thriller,3.72,76
+The Hangover,2009,Comedy/Crime,3.63,76
+The Dark Knight Rises,2012,Action/Adventure/Crime/IMAX,3.99,76
+Lethal Weapon,1987,Action/Comedy/Crime/Drama,3.67,75
+Run Lola Run (Lola rennt),1998,Action/Crime,4.0,75
+Galaxy Quest,1999,Adventure/Comedy/Sci-Fi,3.58,75
+High Fidelity,2000,Comedy/Drama/Romance,3.67,75
+City of God (Cidade de Deus),2002,Action/Adventure/Crime/Drama/Thriller,4.15,75
+The Bourne Supremacy,2004,Action/Crime/Thriller,3.79,75
+Maverick,1994,Adventure/Comedy/Western,3.5,74
+Liar Liar,1997,Comedy,3.03,74
+Lost in Translation,2003,Comedy/Drama/Romance,4.03,74
+The 40-Year-Old Virgin,2005,Comedy/Romance,3.55,74
+Unbreakable,2000,Drama/Sci-Fi,3.48,73
+Interstellar,2014,Sci-Fi/IMAX,3.99,73
+Good; the Bad and the Ugly; The (Buono; il brutto; il cattivo; Il),1966,Action/Adventure/Western,4.15,72
+Charlie's Angels,2000,Action/Comedy,2.72,72
+Pirates of the Caribbean: Dead Man's Chest,2006,Action/Adventure/Fantasy,3.51,72
+Ratatouille,2007,Animation/Children/Drama,3.87,72
+Mary Poppins,1964,Children/Comedy/Fantasy/Musical,3.89,71
+A Fish Called Wanda,1988,Comedy/Crime,3.92,71
+Bruce Almighty,2003,Comedy/Drama/Fantasy/Romance,3.32,71
+Harry Potter and the Goblet of Fire,2005,Adventure/Fantasy/Thriller/IMAX,3.82,71
+Slumdog Millionaire,2008,Crime/Drama/Romance,3.81,71
+Django Unchained,2012,Action/Drama/Western,3.94,71
+The American President,1995,Comedy/Drama/Romance,3.67,70
+Ed Wood,1994,Comedy/Drama,3.68,70
+In the Line of Fire,1993,Action/Thriller,3.69,70
+Scream,1996,Comedy/Horror/Mystery/Thriller,3.2,70
+RoboCop,1987,Action/Crime/Drama/Sci-Fi/Thriller,3.37,70
+Erin Brockovich,2000,Drama,3.53,70
+Traffic,2000,Crime/Drama/Thriller,3.9,70
+Robin Hood: Men in Tights,1993,Comedy,3.13,69
+Citizen Kane,1941,Drama/Mystery,4.04,69
+Young Frankenstein,1974,Comedy/Fantasy,3.99,69
+Big Fish,2003,Drama/Fantasy/Romance,3.83,69
+The Avengers,2012,Action/Adventure/Sci-Fi/IMAX,3.87,69
+Pocahontas,1995,Animation/Children/Drama/Musical/Romance,3.15,68
+Legends of the Fall,1994,Drama/Romance/War/Western,3.4,68
+Die Hard 2,1990,Action/Adventure/Thriller,3.4,68
+Grease,1978,Comedy/Musical/Romance,3.14,68
+Honey; I Shrunk the Kids,1989,Adventure/Children/Comedy/Fantasy/Sci-Fi,2.76,68
+The Patriot,2000,Action/Drama/War,3.45,68
+The Royal Tenenbaums,2001,Comedy/Drama,3.68,68
+Sense and Sensibility,1995,Drama/Romance,3.78,67
+Dead Man Walking,1995,Crime/Drama,3.84,67
+The Lost World: Jurassic Park,1997,Action/Adventure/Sci-Fi/Thriller,2.75,67
+The Little Mermaid,1989,Animation/Children/Comedy/Musical/Romance,3.43,67
+Enemy of the State,1998,Action/Thriller,3.49,67
+Lock; Stock & Two Smoking Barrels,1998,Comedy/Crime/Thriller,4.05,67
+Scarface,1983,Action/Crime/Drama,3.93,67
+Shutter Island,2010,Drama/Mystery/Thriller,4.02,67
+Desperado,1995,Action/Romance/Western,3.56,66
+Philadelphia,1993,Drama,3.61,66
+This Is Spinal Tap,1984,Comedy,4.02,66
+School of Rock,2003,Comedy/Musical,3.4,66
+Tombstone,1993,Action/Drama/Western,3.82,65
+True Romance,1993,Crime/Thriller,3.8,65
+Dragonheart,1996,Action/Adventure/Fantasy,3.09,65
+The Untouchables,1987,Action/Crime/Drama,3.94,65
+Bridget Jones's Diary,2001,Comedy/Drama/Romance,3.62,65
+Austin Powers in Goldmember,2002,Comedy,2.85,65
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006,Comedy,3.35,65
+Juno,2007,Comedy/Drama/Romance,3.77,65
+District 9,2009,Mystery/Sci-Fi/Thriller,3.78,65
+The Crow,1994,Action/Crime/Fantasy/Thriller,3.61,64
+Eraser,1996,Action/Drama/Thriller,3.11,64
+The Sound of Music,1965,Musical/Romance,3.94,64
+The Sting,1973,Comedy/Crime,3.98,64
+Rocky,1976,Drama,3.83,64
+The Blair Witch Project,1999,Drama/Horror/Thriller,2.8,64
+Miss Congeniality,2000,Comedy/Crime,3.05,64
+Legally Blonde,2001,Comedy/Romance,3.16,64
+Children of Men,2006,Action/Adventure/Drama/Sci-Fi/Thriller,3.95,64
+No Country for Old Men,2007,Crime/Drama,3.9,64
+Coneheads,1993,Comedy/Sci-Fi,2.42,63
+Platoon,1986,Drama/War,3.98,63
+The Rocky Horror Picture Show,1975,Comedy/Horror/Musical/Sci-Fi,3.34,63
+Signs,2002,Horror/Sci-Fi/Thriller,3.17,63
+Casper,1995,Adventure/Children,2.81,62
+Judge Dredd,1995,Action/Crime/Sci-Fi,2.67,62
+The Abyss,1989,Action/Adventure/Sci-Fi/Thriller,3.48,62
+Butch Cassidy and the Sundance Kid,1969,Action/Western,3.94,62
+Star Trek II: The Wrath of Khan,1982,Action/Adventure/Sci-Fi/Thriller,3.77,62
+Sleepy Hollow,1999,Fantasy/Horror/Mystery/Romance,3.48,62
+Animal House,1978,Comedy,3.69,62
+Blazing Saddles,1974,Comedy/Western,3.94,62
+The Last Samurai,2003,Action/Adventure/Drama/War,3.9,62
+The Chronicles of Narnia: The Lion; the Witch and the Wardrobe,2005,Adventure/Children/Fantasy,3.44,62
+I Am Legend,2007,Action/Horror/Sci-Fi/Thriller/IMAX,3.48,62
+The Piano,1993,Drama/Romance,3.54,61
+The Three Musketeers,1993,Action/Adventure/Comedy/Romance,3.26,61
+Pleasantville,1998,Comedy/Drama/Fantasy,3.48,61
+Superman,1978,Action/Adventure/Sci-Fi,3.61,61
+Wayne's World,1992,Comedy,3.48,61
+Predator,1987,Action/Sci-Fi/Thriller,3.58,61
+Gone in 60 Seconds,2000,Action/Crime,3.22,61
+Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2),2002,Action/Comedy/Sci-Fi,2.96,61
+I; Robot,2004,Action/Adventure/Sci-Fi/Thriller,3.49,61
+Charlie and the Chocolate Factory,2005,Adventure/Children/Comedy/Fantasy/IMAX,3.0,61
+Hot Fuzz,2007,Action/Comedy/Crime/Mystery,4.0,61
+Hot Shots! Part Deux,1993,Action/Comedy/War,2.87,60
+Pinocchio,1940,Animation/Children/Fantasy/Musical,3.45,60
+Vertigo,1958,Drama/Mystery/Romance/Thriller,4.03,60
+Batman Returns,1992,Action/Crime,3.02,60
+The Mask of Zorro,1998,Action/Comedy/Romance,3.1,60
+Close Encounters of the Third Kind,1977,Adventure/Drama/Sci-Fi,3.74,60
+My Big Fat Greek Wedding,2002,Comedy/Romance,3.27,60
+Beverly Hills Cop III,1994,Action/Comedy/Crime/Thriller,2.72,59
+Brazil,1985,Fantasy/Sci-Fi,4.18,59
+Chinatown,1974,Crime/Film-Noir/Mystery/Thriller,4.21,59
+Grosse Pointe Blank,1997,Comedy/Crime/Romance,3.61,59
+Con Air,1997,Action/Adventure/Thriller,3.03,59
+My Cousin Vinny,1992,Comedy,3.26,59
+Spaceballs,1987,Comedy/Sci-Fi,3.48,59
+American Psycho,2000,Crime/Horror/Mystery/Thriller,3.79,59
+The Italian Job,2003,Action/Crime,3.62,59
+Love Actually,2003,Comedy/Drama/Romance,3.79,59
+Mr. & Mrs. Smith,2005,Action/Adventure/Comedy/Romance,3.28,59
+Star Trek,2009,Action/Adventure/Sci-Fi/IMAX,3.86,59
+Guardians of the Galaxy,2014,Action/Adventure/Sci-Fi,4.05,59
+Naked Gun 33 1/3: The Final Insult,1994,Action/Comedy,3.06,58
+The Truth About Cats & Dogs,1996,Comedy/Romance,3.39,58
+It's a Wonderful Life,1946,Children/Drama/Fantasy/Romance,4.03,58
+To Kill a Mockingbird,1962,Drama,4.12,58
+Annie Hall,1977,Comedy/Romance,3.87,58
+Raising Arizona,1987,Comedy,3.99,58
+Air Force One,1997,Action/Thriller,3.34,58
+Blade,1998,Action/Horror/Thriller,3.36,58
+Bowling for Columbine,2002,Documentary,3.78,58
+28 Days Later,2002,Action/Horror/Sci-Fi,3.97,58
+Wedding Crashers,2005,Comedy/Romance,3.51,58
+Harry Potter and the Order of the Phoenix,2007,Adventure/Drama/Fantasy/IMAX,3.86,58
+Harry Potter and the Half-Blood Prince,2009,Adventure/Fantasy/Mystery/Romance/IMAX,3.89,58
+Sherlock Holmes,2009,Action/Crime/Mystery/Thriller,3.85,58
+The King's Speech,2010,Drama,4.04,58
+Congo,1995,Action/Adventure/Mystery/Sci-Fi,2.88,57
+The Client,1994,Drama/Mystery/Thriller,3.39,57
+North by Northwest,1959,Action/Adventure/Mystery/Romance/Thriller,4.18,57
+12 Angry Men,1957,Drama,4.15,57
+Cool Hand Luke,1967,Drama,4.27,57
+The Goonies,1985,Action/Adventure/Children/Comedy/Fantasy,3.57,57
+A Few Good Men,1992,Crime/Drama/Thriller,3.79,57
+Crocodile Dundee,1986,Adventure/Comedy,3.18,57
+Anchorman: The Legend of Ron Burgundy,2004,Comedy,3.77,57
+The Social Network,2010,Drama,3.89,57
+Wallace & Gromit: The Wrong Trousers,1993,Animation/Children/Comedy/Crime,4.04,56
+Field of Dreams,1989,Children/Drama/Fantasy,3.52,56
+The Full Monty,1997,Comedy/Drama,3.76,56
+The Wedding Singer,1998,Comedy/Romance,3.42,56
+Rushmore,1998,Comedy/Drama,3.54,56
+Planet of the Apes,1968,Action/Drama/Sci-Fi,3.8,56
+Election,1999,Comedy,3.66,56
+Notting Hill,1999,Comedy/Romance,3.46,56
+A.I. Artificial Intelligence,2001,Adventure/Drama/Sci-Fi,3.34,56
+Pirates of the Caribbean: At World's End,2007,Action/Adventure/Comedy/Fantasy,3.44,56
+From Dusk Till Dawn,1996,Action/Comedy/Horror/Thriller,3.51,55
+City Slickers II: The Legend of Curly's Gold,1994,Adventure/Comedy/Western,2.65,55
+Lady and the Tramp,1955,Animation/Children/Comedy/Romance,3.4,55
+A Christmas Story,1983,Children/Comedy,3.97,55
+Moulin Rouge,2001,Drama/Musical/Romance,3.59,55
+The Others,2001,Drama/Horror/Mystery/Thriller,3.63,55
+Gangs of New York,2002,Crime/Drama,3.52,55
+Superbad,2007,Comedy,3.86,55
+Toy Story 3,2010,Adventure/Animation/Children/Comedy/Fantasy/IMAX,4.11,55
+Sabrina,1995,Comedy/Romance,3.19,54
+First Knight,1995,Action/Drama/Romance,3.08,54
+The Cable Guy,1996,Comedy/Thriller,2.81,54
+Romancing the Stone,1984,Action/Adventure/Comedy/Romance,3.45,54
+10 Things I Hate About You,1999,Comedy/Romance,3.53,54
+What Women Want,2000,Comedy/Romance,3.14,54
+Zoolander,2001,Comedy,3.51,54
+Kung Fu Panda,2008,Action/Animation/Children/Comedy/IMAX,3.44,54
+The Hunger Games,2012,Action/Adventure/Drama/Sci-Fi/Thriller,3.44,54
+The Wolf of Wall Street,2013,Comedy/Crime/Drama,3.92,54
+Deadpool,2016,Action/Adventure/Comedy/Sci-Fi,3.83,54
+Johnny Mnemonic,1995,Action/Sci-Fi/Thriller,2.68,53
+Last Action Hero,1993,Action/Adventure/Comedy/Fantasy,2.93,53
+Space Jam,1996,Adventure/Animation/Children/Comedy/Fantasy/Sci-Fi,2.71,53
+Fantasia,1940,Animation/Children/Fantasy/Musical,3.78,53
+The Exorcist,1973,Horror/Mystery,3.8,53
+The Jungle Book,1967,Animation/Children/Comedy/Musical,3.83,53
+Arachnophobia,1990,Comedy/Horror,2.81,53
+Wild Wild West,1999,Action/Comedy/Sci-Fi/Western,2.21,53
+Eyes Wide Shut,1999,Drama/Mystery/Thriller,3.46,53
+Goldfinger,1964,Action/Adventure/Thriller,3.84,53
+Hook,1991,Adventure/Comedy/Fantasy,3.36,53
+Best in Show,2000,Comedy,3.69,53
+Blood Diamond,2006,Action/Adventure/Crime/Drama/Thriller/War,3.76,53
+Zombieland,2009,Action/Comedy/Horror,3.88,53
+How to Train Your Dragon,2010,Adventure/Animation/Children/Fantasy/IMAX,3.94,53
+Grumpier Old Men,1995,Comedy/Romance,3.26,52
+Disclosure,1994,Drama/Thriller,3.54,52
+Donnie Brasco,1997,Crime/Drama,3.74,52
+Chasing Amy,1997,Comedy/Drama/Romance,3.58,52
+Magnolia,1999,Drama,3.71,52
+Caddyshack,1980,Comedy,3.83,52
+Mystic River,2003,Crime/Drama/Mystery,3.71,52
+Million Dollar Baby,2004,Drama,3.85,52
+X-Men: The Last Stand,2006,Action/Sci-Fi/Thriller,3.36,52
+Knocked Up,2007,Comedy/Drama/Romance,3.65,52
+The Grand Budapest Hotel,2014,Comedy/Drama,3.78,52
+Bad Boys,1995,Action/Comedy/Crime/Drama/Thriller,3.25,51
+Army of Darkness,1993,Action/Adventure/Comedy/Fantasy/Horror,4.04,51
+The Devil's Advocate,1997,Drama/Mystery/Thriller,3.41,51
+Splash,1984,Comedy/Fantasy/Romance,3.12,51
+Blow,2001,Crime/Drama,3.81,51
+Training Day,2001,Crime/Drama/Thriller,3.79,51
+Mulholland Drive,2001,Crime/Drama/Film-Noir/Mystery/Thriller,3.84,51
+Tommy Boy,1995,Comedy,3.78,50
+Some Like It Hot,1959,Comedy/Crime,4.01,50
+Tron,1982,Action/Adventure/Sci-Fi,3.34,50
+You've Got Mail,1998,Comedy/Romance,3.12,50
+Scary Movie,2000,Comedy/Horror,2.92,50
+Black Hawk Down,2001,Action/Drama/War,3.81,50
+The Day After Tomorrow,2004,Action/Adventure/Drama/Sci-Fi/Thriller,3.05,50
+Super Size Me,2004,Comedy/Documentary/Drama,3.51,50
+Crash,2004,Crime/Drama,3.89,50
+War of the Worlds,2005,Action/Adventure/Sci-Fi/Thriller,3.15,50
+Serenity,2005,Action/Adventure/Sci-Fi,3.94,50
+Harry Potter and the Deathly Hallows: Part 2,2011,Action/Adventure/Drama/Fantasy/Mystery/IMAX,3.91,50
+Skyfall,2012,Action/Adventure/Thriller/IMAX,3.81,50
+The Imitation Game,2014,Drama/Thriller/War,4.02,50
+Father of the Bride Part II,1995,Comedy,3.07,49
+Billy Madison,1995,Comedy,3.33,49
+James and the Giant Peach,1996,Adventure/Animation/Children/Fantasy/Musical,3.45,49
+Sixteen Candles,1984,Comedy/Romance,3.6,49
+Superman II,1980,Action/Sci-Fi,3.02,49
+The Talented Mr. Ripley,1999,Drama/Mystery/Thriller,3.34,49
+Planet of the Apes,2001,Action/Adventure/Drama/Sci-Fi,2.74,49
+Road to Perdition,2002,Crime/Drama,3.52,49
+Chicago,2002,Comedy/Crime/Drama/Musical,3.72,49
+The Da Vinci Code,2006,Drama/Mystery/Thriller,3.12,49
+Nine Months,1995,Comedy/Romance,2.82,48
+Wallace & Gromit: A Close Shave,1995,Animation/Children/Comedy,3.9,48
+Highlander,1986,Action/Adventure/Fantasy,3.73,48
+Jackie Brown,1997,Crime/Drama/Thriller,3.7,48
+Dark City,1998,Adventure/Film-Noir/Sci-Fi/Thriller,3.82,48
+Seven Samurai (Shichinin no samurai),1954,Action/Adventure/Drama,4.19,48
+Big Daddy,1999,Comedy,3.2,48
+The Thomas Crown Affair,1999,Action/Mystery,3.65,48
+Princess Mononoke (Mononoke-hime),1997,Action/Adventure/Animation/Drama/Fantasy,3.96,48
+Troy,2004,Action/Adventure/Drama/War,3.43,48
+Garden State,2004,Comedy/Drama/Romance,3.71,48
+Hotel Rwanda,2004,Drama/War,3.79,48
+The Martian,2015,Adventure/Drama/Sci-Fi,4.0,48
+The Hunchback of Notre Dame,1996,Animation/Children/Drama/Musical/Romance,3.33,47
+Singin' in the Rain,1952,Comedy/Musical/Romance,4.07,47
+Basic Instinct,1992,Crime/Mystery/Thriller,3.19,47
+Alien³ (a.k.a. Alien 3),1992,Action/Horror/Sci-Fi/Thriller,3.15,47
+Sling Blade,1996,Drama,3.84,47
+101 Dalmatians,1996,Adventure/Children/Comedy,3.07,47
+Pi,1998,Drama/Sci-Fi/Thriller,3.85,47
+Poltergeist,1982,Horror/Thriller,3.43,47
+Lethal Weapon 2,1989,Action/Comedy/Crime/Drama,3.18,47
+Analyze This,1999,Comedy,3.1,47
+Ghostbusters II,1989,Comedy/Fantasy/Sci-Fi,3.0,47
+Chocolat,2000,Drama/Romance,3.52,47
+The Ring,2002,Horror/Mystery/Thriller,3.2,47
+50 First Dates,2004,Comedy/Romance,3.55,47
+The Terminal,2004,Comedy/Drama/Romance,3.32,47
+Iron Man 2,2010,Action/Adventure/Sci-Fi/Thriller/IMAX,3.51,47
+Harry Potter and the Deathly Hallows: Part 1,2010,Action/Adventure/Fantasy/IMAX,3.99,47
+Mad Max: Fury Road,2015,Action/Adventure/Sci-Fi/Thriller,3.82,47
+Mortal Kombat,1995,Action/Adventure/Fantasy,2.54,46
+Rumble in the Bronx (Hont faan kui),1995,Action/Adventure/Comedy/Crime,3.54,46
+Phenomenon,1996,Drama/Romance,3.34,46
+Sneakers,1992,Action/Comedy/Crime/Drama/Sci-Fi,3.48,46
+Fear and Loathing in Las Vegas,1998,Adventure/Comedy/Drama,3.97,46
+Lethal Weapon 3,1992,Action/Comedy/Crime/Drama,2.93,46
+Blue Velvet,1986,Drama/Mystery/Thriller,3.95,46
+Me; Myself & Irene,2000,Adventure/Comedy,3.09,46
+Beverly Hills Cop,1984,Action/Comedy/Crime/Drama,3.4,46
+M*A*S*H (a.k.a. MASH),1970,Comedy/Drama/War,3.93,46
+Adaptation,2002,Comedy/Drama/Romance,3.95,46
+The Pianist,2002,Drama/War,4.11,46
+The Butterfly Effect,2004,Drama/Sci-Fi/Thriller,3.63,46
+The Pursuit of Happyness,2006,Drama,3.79,46
+The Simpsons Movie,2007,Animation/Comedy,3.62,46
+Gran Torino,2008,Crime/Drama,3.95,46
+Species,1995,Horror/Sci-Fi,2.67,45
+French Kiss,1995,Action/Comedy/Romance,3.48,45
+The Aristocats,1970,Animation/Children,3.41,45
+Gone with the Wind,1939,Drama/Romance/War,3.64,45
+The English Patient,1996,Drama/Romance/War,3.71,45
+Lawrence of Arabia,1962,Adventure/Drama/War,4.3,45
+The Bridge on the River Kwai,1957,Adventure/Drama/War,4.12,45
+Unforgiven,1992,Drama/Western,4.11,45
+Star Trek: The Motion Picture,1979,Adventure/Sci-Fi,3.04,45
+Alien: Resurrection,1997,Action/Horror/Sci-Fi,2.92,45
+Tomorrow Never Dies,1997,Action/Adventure/Thriller,3.07,45
+Mulan,1998,Adventure/Animation/Children/Comedy/Drama/Musical/Romance,3.57,45
+The Godfather: Part III,1990,Crime/Drama/Mystery/Thriller,3.36,45
+The Thing,1982,Action/Horror/Sci-Fi/Thriller,3.93,45
+Antz,1998,Adventure/Animation/Children/Comedy/Fantasy,3.24,45
+Payback,1999,Action/Thriller,3.42,45
+Three Kings,1999,Action/Adventure/Comedy/Drama/War,3.71,45
+A League of Their Own,1992,Comedy/Drama,3.47,45
+The Cell,2000,Drama/Horror/Thriller,3.04,45
+The Mummy Returns,2001,Action/Adventure/Comedy/Thriller,3.09,45
+The Fast and the Furious,2001,Action/Crime/Thriller,3.07,45
+Bill & Ted's Excellent Adventure,1989,Adventure/Comedy/Sci-Fi,3.7,45
+American Pie 2,2001,Comedy,3.07,45
+Terminator 3: Rise of the Machines,2003,Action/Adventure/Sci-Fi,3.04,45
+Hitch,2005,Comedy/Romance,3.17,45
+Rob Roy,1995,Action/Drama/Romance/War,3.55,44
+Escape from L.A.,1996,Action/Adventure/Sci-Fi/Thriller,2.92,44
+The Maltese Falcon,1941,Film-Noir/Mystery,4.17,44
+The Birds,1963,Horror/Thriller,3.6,44
+101 Dalmatians (One Hundred and One Dalmatians),1961,Adventure/Animation/Children,3.43,44
+Misery,1990,Drama/Horror/Thriller,3.84,44
+The Perfect Storm,2000,Drama/Thriller,3.17,44
+Vanilla Sky,2001,Mystery/Romance/Sci-Fi/Thriller,3.42,44
+About a Boy,2002,Comedy/Drama/Romance,3.72,44
+Equilibrium,2002,Action/Sci-Fi/Thriller,3.88,44
+Collateral,2004,Action/Crime/Drama/Thriller,3.76,44
+The Hitchhiker's Guide to the Galaxy,2005,Adventure/Comedy/Sci-Fi,3.42,44
+Corpse Bride,2005,Animation/Comedy/Fantasy/Musical/Romance,3.53,44
+Stranger than Fiction,2006,Comedy/Drama/Fantasy/Romance,3.69,44
+Spider-Man 3,2007,Action/Adventure/Sci-Fi/Thriller/IMAX,3.0,44
+Scott Pilgrim vs. the World,2010,Action/Comedy/Fantasy/Musical/Romance,3.7,44
+Edge of Tomorrow,2014,Action/Sci-Fi/IMAX,3.98,44
+I.Q.,1994,Comedy/Romance,3.45,43
+Much Ado About Nothing,1993,Comedy/Romance,3.81,43
+Tin Cup,1996,Comedy/Drama/Romance,3.17,43
+The Great Escape,1963,Action/Adventure/Drama/War,4.13,43
+The Deer Hunter,1978,Drama/War,3.83,43
+Star Trek IV: The Voyage Home,1986,Adventure/Comedy/Sci-Fi,3.48,43
+Conspiracy Theory,1997,Drama/Mystery/Romance/Thriller,2.94,43
+Deep Impact,1998,Drama/Sci-Fi/Thriller,3.07,43
+The NeverEnding Story,1984,Adventure/Children/Fantasy,3.58,43
+Ronin,1998,Action/Crime/Thriller,3.52,43
+Cocoon,1985,Comedy/Sci-Fi,3.27,43
+The Fly,1986,Drama/Horror/Sci-Fi/Thriller,3.38,43
+Entrapment,1999,Crime/Thriller,2.99,43
+The Boondock Saints,2000,Action/Crime/Drama/Thriller,4.22,43
+American Graffiti,1973,Comedy/Drama,3.85,43
+Good Morning; Vietnam,1987,Comedy/Drama/War,3.8,43
+Shanghai Noon,2000,Action/Adventure/Comedy/Western,3.15,43
+Pearl Harbor,2001,Action/Drama/Romance/War,2.97,43
+Ocean's Twelve,2004,Action/Comedy/Crime/Thriller,3.29,43
+The Illusionist,2006,Drama/Fantasy/Mystery/Romance,3.78,43
+Watchmen,2009,Action/Drama/Mystery/Sci-Fi/Thriller/IMAX,3.99,43
+Kick-Ass,2010,Action/Comedy,3.65,43
+X-Men: First Class,2011,Action/Adventure/Sci-Fi/Thriller/War,3.79,43
+Inside Out,2015,Adventure/Animation/Children/Comedy/Drama/Fantasy,3.81,43
+Little Women,1994,Drama,3.88,42
+The Flintstones,1994,Children/Comedy/Fantasy,2.36,42
+Carlito's Way,1993,Crime/Drama,3.74,42
+Dazed and Confused,1993,Comedy,3.93,42
+Kingpin,1996,Comedy,3.37,42
+Cinderella,1950,Animation/Children/Fantasy/Musical/Romance,3.49,42
+That Thing You Do!,1996,Comedy/Drama,3.27,42
+Dirty Dancing,1987,Drama/Musical/Romance,3.37,42
+The Crying Game,1992,Drama/Romance/Thriller,3.44,42
+Star Trek VI: The Undiscovered Country,1991,Action/Mystery/Sci-Fi,3.35,42
+Star Trek III: The Search for Spock,1984,Action/Adventure/Sci-Fi,3.26,42
+Batman & Robin,1997,Action/Adventure/Fantasy/Thriller,2.21,42
+The X-Files: Fight the Future,1998,Action/Crime/Mystery/Sci-Fi/Thriller,3.44,42
+Labyrinth,1986,Adventure/Fantasy/Musical,3.82,42
+Rush Hour,1998,Action/Comedy/Crime/Thriller,3.26,42
+Runaway Bride,1999,Comedy/Romance,2.83,42
+Risky Business,1983,Comedy,3.44,42
+Fast Times at Ridgemont High,1982,Comedy/Drama/Romance,3.48,42
+The Whole Nine Yards,2000,Comedy/Crime,3.52,42
+The Naked Gun: From the Files of Police Squad!,1988,Action/Comedy/Crime/Romance,3.4,42
+Taken,2008,Action/Crime/Drama/Thriller,3.62,42
+(500) Days of Summer,2009,Comedy/Drama/Romance,3.67,42
+Black Swan,2010,Drama/Thriller,3.63,42
+The Girl with the Dragon Tattoo,2011,Drama/Thriller,3.49,42
+Executive Decision,1996,Action/Adventure/Thriller,3.38,41
+So I Married an Axe Murderer,1993,Comedy/Romance/Thriller,3.32,41
+Striptease,1996,Comedy/Crime,2.41,41
+Glory,1989,Drama/War,4.17,41
+Heathers,1989,Comedy,3.73,41
+Gremlins,1984,Comedy/Horror,3.38,41
+Peter Pan,1953,Animation/Children/Fantasy/Musical,3.57,41
+Time Bandits,1981,Adventure/Comedy/Fantasy/Sci-Fi,3.73,41
+Thelma & Louise,1991,Adventure/Crime/Drama,3.46,41
+Road Trip,2000,Comedy,3.09,41
+Remember the Titans,2000,Drama,3.74,41
+A Knight's Tale,2001,Action/Comedy/Romance,3.34,41
+8 Mile,2002,Drama,3.29,41
+Hellboy,2004,Action/Adventure/Fantasy/Horror,3.38,41
+Cars,2006,Animation/Children/Comedy,3.38,41
+Into the Wild,2007,Action/Adventure/Drama,3.9,41
+In Bruges,2008,Comedy/Crime/Drama/Thriller,4.16,41
+Big Hero 6,2014,Action/Animation/Comedy,3.85,41
+Star Wars: Episode VII - The Force Awakens,2015,Action/Adventure/Fantasy/Sci-Fi/IMAX,3.85,41
+Don Juan DeMarco,1995,Comedy/Drama/Romance,3.61,40
+Nell,1994,Drama,3.34,40
+The River Wild,1994,Action/Thriller,3.25,40
+The Hudsucker Proxy,1994,Comedy,3.55,40
+Searching for Bobby Fischer,1993,Drama,3.88,40
+Alice in Wonderland,1951,Adventure/Animation/Children/Fantasy/Musical,3.38,40
+Raging Bull,1980,Drama,4.19,40
+Boot; Das (Boat; The),1981,Action/Drama/War,4.21,40
+My Best Friend's Wedding,1997,Comedy/Romance,3.5,40
+Witness,1985,Drama/Romance/Thriller,3.65,40
+Willow,1988,Action/Adventure/Fantasy,3.34,40
+Cruel Intentions,1999,Drama,3.23,40
+Road Warrior; The (Mad Max 2),1981,Action/Adventure/Sci-Fi/Thriller,4.04,40
+Enemy at the Gates,2001,Drama/War,3.51,40
+Lara Croft: Tomb Raider,2001,Action/Adventure,2.9,40
+Bend It Like Beckham,2002,Comedy/Drama/Romance,3.3,40
+Monty Python's The Meaning of Life,1983,Comedy,3.95,40
+Howl's Moving Castle (Hauru no ugoku shiro),2004,Adventure/Animation/Fantasy/Romance,4.08,40
+Madagascar,2005,Adventure/Animation/Children/Comedy,3.38,40
+King Kong,2005,Action/Adventure/Drama/Fantasy/Thriller,3.4,40
+Inside Man,2006,Crime/Drama/Thriller,3.8,40
+The Hobbit: An Unexpected Journey,2012,Adventure/Fantasy/IMAX,3.81,40
+Escape from New York,1981,Action/Adventure/Sci-Fi/Thriller,3.45,39
+Akira,1988,Action/Adventure/Animation/Sci-Fi,3.74,39
+The Last of the Mohicans,1992,Action/Romance/War/Western,3.83,39
+Boogie Nights,1997,Drama,4.08,39
+The French Connection,1971,Action/Crime/Thriller,3.87,39
+The Rocketeer,1991,Action/Adventure/Sci-Fi,3.26,39
+Say Anything...,1989,Comedy/Drama/Romance,3.92,39
+Go,1999,Comedy/Crime,3.96,39
+Mystery Men,1999,Action/Comedy/Fantasy,3.09,39
+Little Shop of Horrors,1986,Comedy/Horror/Musical,3.33,39
+The Iron Giant,1999,Adventure/Animation/Children/Drama/Sci-Fi,4.05,39
+Boys Don't Cry,1999,Drama,3.55,39
+Fistful of Dollars; A (Per un pugno di dollari),1964,Action/Western,3.94,39
+Trading Places,1983,Comedy,3.73,39
+The World Is Not Enough,1999,Action/Adventure/Thriller,3.33,39
+Man on the Moon,1999,Comedy/Drama,3.49,39
+Pitch Black,2000,Horror/Sci-Fi/Thriller,3.56,39
+Hollow Man,2000,Horror/Sci-Fi/Thriller,2.29,39
+Hannibal,2001,Horror/Thriller,2.94,39
+Old School,2003,Comedy,3.51,39
+Elf,2003,Children/Comedy/Fantasy,3.69,39
+Mean Girls,2004,Comedy,3.76,39
+Dodgeball: A True Underdog Story,2004,Comedy,3.55,39
+Sideways,2004,Comedy/Drama/Romance,3.74,39
+Old Boy,2003,Mystery/Thriller,4.09,39
+Walk the Line,2005,Drama/Musical/Romance,3.76,39
+Transformers,2007,Action/Sci-Fi/Thriller/IMAX,3.35,39
+Forgetting Sarah Marshall,2008,Comedy/Romance,3.77,39
+Indiana Jones and the Kingdom of the Crystal Skull,2008,Action/Adventure/Comedy/Sci-Fi,2.83,39
+Burn After Reading,2008,Comedy/Crime/Drama,3.49,39
+City of Lost Children; The (Cité des enfants perdus; La),1995,Adventure/Drama/Fantasy/Mystery/Sci-Fi,4.01,38
+Dangerous Minds,1995,Drama,3.18,38
+Miracle on 34th Street,1994,Drama,3.22,38
+The Specialist,1994,Action/Drama/Thriller,3.08,38
+Bambi,1942,Animation/Children/Drama,3.37,38
+The Addams Family,1991,Children/Comedy/Fantasy,3.29,38
+The Player,1992,Comedy/Crime/Drama,3.95,38
+The Karate Kid,1984,Drama,3.57,38
+Bowfinger,1999,Comedy,2.96,38
+Dog Day Afternoon,1975,Crime/Drama,3.93,38
+Mad Max,1979,Action/Adventure/Sci-Fi,3.49,38
+Hero (Ying xiong),2002,Action/Adventure/Drama,3.92,38
+The Notebook,2004,Drama/Romance,3.57,38
+The Machinist,2004,Drama/Mystery/Thriller,3.99,38
+National Treasure,2004,Action/Adventure/Drama/Mystery/Thriller,3.26,38
+Lucky Number Slevin,2006,Crime/Drama/Mystery,3.86,38
+Zodiac,2007,Crime/Drama/Thriller,3.71,38
+Despicable Me,2010,Animation/Children/Comedy/Crime,3.68,38
+Sherlock Holmes: A Game of Shadows,2011,Action/Adventure/Comedy/Crime/Mystery/Thriller,3.76,38
+Whiplash,2014,Drama,4.04,38
+Postman; The (Postino; Il),1994,Comedy/Drama/Romance,4.03,37
+Free Willy,1993,Adventure/Children/Drama,2.39,37
+Ransom,1996,Crime/Thriller,3.34,37
+Cool Runnings,1993,Comedy,3.08,37
+The Doors,1991,Drama,3.41,37
+Dune,1984,Adventure/Sci-Fi,3.43,37
+Billy Elliot,2000,Drama,3.85,37
+The Emperor's New Groove,2000,Adventure/Animation/Children/Comedy/Fantasy,3.72,37
+Panic Room,2002,Thriller,3.0,37
+My Neighbor Totoro (Tonari no Totoro),1988,Animation/Children/Drama/Fantasy,3.96,37
+Napoleon Dynamite,2004,Comedy,3.32,37
+Fahrenheit 9/11,2004,Documentary,3.49,37
+The Life Aquatic with Steve Zissou,2004,Adventure/Comedy/Fantasy,3.49,37
+American Gangster,2007,Crime/Drama/Thriller,3.91,37
+The Curious Case of Benjamin Button,2008,Drama/Fantasy/Mystery/Romance,3.59,37
+Intouchables,2011,Comedy/Drama,4.11,37
+Gone Girl,2014,Drama/Thriller,3.72,37
+Copycat,1995,Crime/Drama/Horror/Mystery/Thriller,3.22,36
+Mallrats,1995,Comedy/Romance,3.4,36
+The Adventures of Priscilla; Queen of the Desert,1994,Comedy/Drama,3.6,36
+The Brady Bunch Movie,1995,Comedy,2.74,36
+Mystery Science Theater 3000: The Movie,1996,Comedy/Sci-Fi,3.49,36
+Breakfast at Tiffany's,1961,Drama/Romance,3.85,36
+William Shakespeare's Romeo + Juliet,1996,Drama/Romance,3.72,36
+Swingers,1996,Comedy/Drama,3.69,36
+Carrie,1976,Drama/Fantasy/Horror/Thriller,3.35,36
+Rounders,1998,Drama,3.86,36
+Never Been Kissed,1999,Comedy/Romance,2.96,36
+From Russia with Love,1963,Action/Adventure/Thriller,3.75,36
+Robin Hood,1973,Adventure/Animation/Children/Comedy/Musical,3.51,36
+Fatal Attraction,1987,Drama/Thriller,3.1,36
+The Fisher King,1991,Comedy/Drama/Fantasy/Romance,3.81,36
+Sister Act,1992,Comedy/Crime,3.03,36
+Frequency,2000,Drama/Thriller,3.42,36
+Jurassic Park III,2001,Action/Adventure/Sci-Fi/Thriller,2.85,36
+Master and Commander: The Far Side of the World,2003,Adventure/Drama/War,3.64,36
+Fantastic Four,2005,Action/Adventure/Sci-Fi,2.76,36
+Thank You for Smoking,2006,Comedy/Drama,4.03,36
+Kingsman: The Secret Service,2015,Action/Adventure/Comedy/Crime,3.99,36
+Hackers,1995,Action/Adventure/Crime/Thriller,3.23,35
+Showgirls,1995,Drama,2.47,35
+Junior,1994,Comedy/Sci-Fi,2.83,35
+Primal Fear,1996,Crime/Drama/Mystery/Thriller,3.64,35
+Multiplicity,1996,Comedy,2.84,35
+A Time to Kill,1996,Drama/Thriller,3.66,35
+My Fair Lady,1964,Comedy/Drama/Musical/Romance,4.04,35
+Dumbo,1941,Animation/Children/Drama/Musical,3.39,35
+Bonnie and Clyde,1967,Crime/Drama,4.07,35
+Femme Nikita; La (Nikita),1990,Action/Crime/Romance/Thriller,4.07,35
+The Thin Red Line,1998,Action/Drama/War,3.3,35
+Bull Durham,1988,Comedy/Drama/Romance,3.67,35
+Final Destination,2000,Drama/Thriller,2.93,35
+What About Bob?,1991,Comedy,3.27,35
+Man on Fire,2004,Action/Crime/Drama/Mystery/Thriller,3.63,35
+The Aviator,2004,Drama,3.53,35
+Constantine,2005,Action/Fantasy/Horror/Thriller,3.47,35
+Lord of War,2005,Action/Crime/Drama/Thriller/War,3.71,35
+Kiss Kiss Bang Bang,2005,Comedy/Crime/Mystery/Thriller,4.07,35
+The Incredible Hulk,2008,Action/Sci-Fi,3.17,35
+Quantum of Solace,2008,Action/Adventure/Thriller,3.46,35
+Coraline,2009,Animation/Fantasy/Thriller,3.7,35
+The Indian in the Cupboard,1995,Adventure/Children/Fantasy,3.24,34
+Tank Girl,1995,Action/Comedy/Sci-Fi,2.82,34
+The Jungle Book,1994,Adventure/Children/Romance,3.53,34
+Rudy,1993,Drama,3.49,34
+The African Queen,1951,Adventure/Comedy/Romance/War,3.97,34
+Cinema Paradiso (Nuovo cinema Paradiso),1989,Drama,4.16,34
+Evil Dead II (Dead by Dawn),1987,Action/Comedy/Fantasy/Horror,4.04,34
+Ben-Hur,1959,Action/Adventure/Drama,3.94,34
+Stripes,1981,Comedy/War,3.79,34
+West Side Story,1961,Drama/Musical/Romance,3.6,34
+The Dark Crystal,1982,Adventure/Fantasy,3.54,34
+The Running Man,1987,Action/Sci-Fi,3.22,34
+Bring It On,2000,Comedy,2.69,34
+Swordfish,2001,Action/Crime/Drama,3.1,34
+Ghost World,2001,Comedy/Drama,3.5,34
+Jay and Silent Bob Strike Back,2001,Adventure/Comedy,3.16,34
+Blade II,2002,Action/Horror/Thriller,3.21,34
+Anger Management,2003,Comedy,3.06,34
+Matchstick Men,2003,Comedy/Crime/Drama,3.72,34
+Harold and Kumar Go to White Castle,2004,Adventure/Comedy,3.46,34
+Brokeback Mountain,2005,Drama/Romance,3.56,34
+Lives of Others; The (Das leben der Anderen),2006,Drama/Romance/Thriller,4.12,34
+The Devil Wears Prada,2006,Comedy/Drama,3.56,34
+Stardust,2007,Adventure/Comedy/Fantasy/Romance,3.6,34
+The Wrestler,2008,Drama,3.74,34
+Yes Man,2008,Comedy,3.62,34
+The Hurt Locker,2008,Action/Drama/Thriller/War,4.06,34
+Source Code,2011,Action/Drama/Mystery/Sci-Fi/Thriller,3.6,34
+Thor,2011,Action/Adventure/Drama/Fantasy/IMAX,3.51,34
+Like Water for Chocolate (Como agua para chocolate),1992,Drama/Fantasy/Romance,3.94,33
+Muriel's Wedding,1994,Comedy,3.27,33
+Heavy Metal,1981,Action/Adventure/Animation/Horror/Sci-Fi,3.55,33
+Sgt. Bilko,1996,Comedy,3.05,33
+Matilda,1996,Children/Comedy/Fantasy,3.27,33
+The Long Kiss Goodnight,1996,Action/Drama/Thriller,3.32,33
+Manhattan,1979,Comedy/Drama/Romance,4.11,33
+Patton,1970,Drama/War,4.12,33
+Godzilla,1998,Action/Sci-Fi/Thriller,1.95,33
+Lethal Weapon 4,1998,Action/Comedy/Crime/Thriller,2.85,33
+Pretty in Pink,1986,Comedy/Drama/Romance,3.24,33
+The Producers,1968,Comedy,3.97,33
+Star Trek: Insurrection,1998,Action/Drama/Romance/Sci-Fi,3.15,33
+Dr. No,1962,Action/Adventure/Thriller,3.71,33
+The Muppet Movie,1979,Adventure/Children/Comedy/Musical,3.59,33
+U-571,2000,Action/Thriller/War,3.42,33
+For a Few Dollars More (Per qualche dollaro in più),1965,Action/Drama/Thriller/Western,4.15,33
+How the Grinch Stole Christmas (a.k.a. The Grinch),2000,Children/Comedy/Fantasy,3.05,33
+Dude; Where's My Car?,2000,Comedy/Sci-Fi,2.73,33
+K-PAX,2001,Drama/Fantasy/Mystery/Sci-Fi,3.48,33
+Insomnia,2002,Action/Crime/Drama/Mystery/Thriller,3.3,33
+Punch-Drunk Love,2002,Comedy/Drama/Romance,3.62,33
